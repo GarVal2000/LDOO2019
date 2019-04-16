@@ -1,0 +1,14 @@
+SMAP
+aceptable_jsp.java
+JSP
+*S JSP
+*F
++ 0 aceptable.jsp
+aceptable.jsp
+*L
+5,2:45
+8,2:48
+9,11:50
+20,3:61,3
+23,3:70
+*E
