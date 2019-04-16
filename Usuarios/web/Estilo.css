@@ -1,0 +1,42 @@
+input {  
+   
+   background-color:#D6DBDF;
+   color:#943126;
+   font-weight: 900;
+   font-family: Verbana;
+   border-radius: 5px;
+} 
+h1, p{
+    font-family: Brush Script MT;
+     font-weight: 900;
+     color: black
+}
+h2{
+     font-family: Forte;
+     color: Black;
+}
+#OOBotoon{
+    font-family: Forte;
+    color: #8E44AD;
+    font-weight: 900;
+}
+body {
+    
+background-repeat : no-repeat; 
+background-position : center; 
+background-attachment : fixed; 
+} 
+label{
+    color: black;
+}
+
+
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #D6DBDF inset;
+   -webkit-text-fill-color: #943126;
+   font-weight: 900;
+   font-family: Verbana;
+   border-radius: 5px;
+}	
+
